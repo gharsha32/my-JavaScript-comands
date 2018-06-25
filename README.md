@@ -88,5 +88,13 @@ if(condition){
 
 }else{
  code here
-}
+}`
 ```
+
+### Creating an array
+```javascript
+var arrayName=[item1, item2, ...]
+```
+
+### Addin items at the end of an array
+```javascript
