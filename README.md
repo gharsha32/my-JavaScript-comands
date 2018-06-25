@@ -42,3 +42,17 @@ prompt("question");
 ### To link external javascript file to the main html file
 ```javascript
 <script src="nameOfExternaljavascriptfile">
+```
+
+### To create a function
+```javascript
+function nameOfTheFunction(parameter1, parameter2){
+  code here
+}
+```
+
+### Calling a function
+```javascript
+functionName(argument1, argument2)
+```
+
