@@ -10,7 +10,7 @@ nameOfFile.js
 alert("message");
 ```
 
-### To write directly to a web page
+### Writing directly to a web page
 ```javascript
 document.write("message");
 ```
@@ -23,7 +23,7 @@ Right click on the web page/inspect/console
 console.log("message");
 ```
 
-### To create a variable
+### Creating a variable
 ```javascript
 var variableName;
 ```
@@ -62,4 +62,31 @@ var nameOfVariable="some text"
 alert(namwOfVariable)
 ```
 
-### Loop
+### creating a loop (while loop)
+```javascript
+wile(condition){
+ code here
+} //The code in the code block runs as long as the condition is true
+```
+
+### Conditional statement
+```javascript
+if(condition){
+ code here
+}else{
+ //If the condition in the if statement is not satisfied, the code in here runs 
+}
+```
+
+### To create many conditional statements
+```javascript
+if(condition){
+ code here
+}else if (condition){
+ code here
+}...
+
+}else{
+ code here
+}
+```
