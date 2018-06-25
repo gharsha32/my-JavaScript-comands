@@ -1,12 +1,12 @@
 # my-JavaScript-comands
  write
 ### To make an alert dilog box appear with a message
-```bash
+```javascript
 alert("message");
 ```
 
 ### To write directly to a web page
-```bash
+```javascript
 document.write("message");
 ```
 
@@ -14,18 +14,18 @@ document.write("message");
 Right click on the web page/inspect/console
 
 ### To write a message to the console
-```bash
+```javascript
 console.log("message");
 ```
 
 ### To create a variable
-```bash
+```javascript
 var variableName;
 ```
 
 ### To assign a value to a variable(A number, string, boolean)
-```bash
-var variableName="string" *For a string
-var variableName=number *For a number
-var variableName=true/false *For a boolean
+```javascript
+var variableName="string" //For a string
+var variableName=5 //For a number
+var variableName=true //For a boolean
 ```
