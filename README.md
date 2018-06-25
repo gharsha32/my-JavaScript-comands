@@ -61,3 +61,5 @@ functionName(argument1, argument2)
 var nameOfVariable="some text"
 alert(namwOfVariable)
 ```
+
+### Loop
