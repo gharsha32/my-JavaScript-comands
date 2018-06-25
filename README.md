@@ -1,5 +1,10 @@
 # my-JavaScript-comands
  write
+### Naming an external javascript file
+```javascript
+nameOfFile.js
+```
+
 ### To make an alert dilog box appear with a message
 ```javascript
 alert("message");
@@ -25,7 +30,15 @@ var variableName;
 
 ### To assign a value to a variable(A number, string, boolean)
 ```javascript
-var variableName="string" //For a string
-var variableName=5 //For a number
-var variableName=true //For a boolean
+var variableName="string"; //For a string
+var variableName=5; //For a number
+var variableName=true; //For a boolean
 ```
+### To recive a user's input
+```javascript
+prompt("question");
+```
+
+### To link external javascript file to the main html file
+```javascript
+<script src="nameOfExternaljavascriptfile">
