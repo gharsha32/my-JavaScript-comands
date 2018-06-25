@@ -56,3 +56,8 @@ function nameOfTheFunction(parameter1, parameter2){
 functionName(argument1, argument2)
 ```
 
+### Alerting variables
+```javascript
+var nameOfVariable="some text"
+alert(namwOfVariable)
+```
