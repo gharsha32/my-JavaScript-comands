@@ -93,7 +93,7 @@ if(condition){
 
 ### Creating an array
 ```javascript
-var arrayName=[item1, item2, ...]
+var arrayName=[item1, item2, ...];
 ```
 
 ### Addin items at the end of an array
