@@ -28,7 +28,7 @@ console.log("message");
 var variableName;
 ```
 
-### To assign a value to a variable(A number, string, boolean)
+### To assign a value to a variable(a number, string, boolean)
 ```javascript
 var variableName="string"; //For a string
 var variableName=5; //For a number
