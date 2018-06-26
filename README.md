@@ -96,5 +96,27 @@ if(condition){
 var arrayName=[item1, item2, ...];
 ```
 
-### Addin items at the end of an array
+### Adding items at the end of an array
 ```javascript
+arrayName.push("string1", "string2", ...)//you may even place numbers
+```
+
+### Accessing an item in an array
+```javascript
+arrayName[indexvalue]
+```
+
+### Adding items at the beginning of an array
+```javascript
+arrayName.push("string1", "string2", ...)//you may even place numbers
+```
+
+### Removing items from the beginning of an array
+```javascript
+arrayName.shift()
+```
+
+### Removing items from the end of an array
+```javascript
+arrayName.pop() /*You can get the removed item from the array by placing arrayName.pop() in console.log() or document.write() */ 
+```
