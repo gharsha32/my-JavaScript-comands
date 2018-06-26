@@ -130,3 +130,11 @@ for(var i=theNumberYouWantToBeginWith; condition; i+=1/i-=1/*According to the re
 ```javascript
 arrayName.length
 ```
+
+### Return
+```javascript
+function functionName(x, y){
+ return x+y
+}
+console.log(functionName(2, 3))
+//Expected outcome: 5 in the console.
