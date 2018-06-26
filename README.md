@@ -138,3 +138,14 @@ function functionName(x, y){
 }
 console.log(functionName(2, 3))
 //Expected outcome: 5 in the console.
+```
+
+### To join two or more arrays
+```javascript
+mainarray.concat(array1, array2, ...)
+```
+
+### To bring all the elements of an array in a line
+```javascrit
+arrayName.join()
+```
