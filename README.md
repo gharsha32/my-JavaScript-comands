@@ -62,7 +62,7 @@ var nameOfVariable="some text"
 alert(namwOfVariable)
 ```
 
-### creating a loop (while loop)
+### creating a loop (WHILE loop)
 ```javascript
 wile(condition){
  code here
@@ -120,3 +120,7 @@ arrayName.shift()
 ```javascript
 arrayName.pop() /*You can get the removed item from the array by placing arrayName.pop() in console.log() or document.write() */ 
 ```
+
+### To create a loop(FOR loop)
+```javascript
+for(var i=theNumberYouWantToBeginWith; condition; i+=1/i-=1/*According to the requirement*/)
