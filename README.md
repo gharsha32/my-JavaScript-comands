@@ -124,3 +124,9 @@ arrayName.pop() /*You can get the removed item from the array by placing arrayNa
 ### To create a loop(FOR loop)
 ```javascript
 for(var i=theNumberYouWantToBeginWith; condition; i+=1/i-=1/*According to the requirement*/)
+```
+
+### To know the length of the array
+```javascript
+arrayName.length
+```
