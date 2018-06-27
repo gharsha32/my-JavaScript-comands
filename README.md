@@ -163,3 +163,25 @@ objectName.newProperty: value;
 ```javascript
 remove objectName.property
 ```
+### Placing functions inside a property
+```javascript
+someproperty: function(){ //This is called a method
+ code here
+}
+```
+
+### To access a method
+```javascript
+objectName.propertyName() //That property name you gave a function to.
+```
+
+### Changing the value of a property
+```Javascript
+objectName.property=new value// a number, string
+```
+
+### To loop through all the properties in an object
+```javascript
+for(var key in objectName){
+   code here
+}
