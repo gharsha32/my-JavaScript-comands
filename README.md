@@ -149,3 +149,17 @@ mainarray.concat(array1, array2, ...)
 ```javascrit
 arrayName.join()
 ```
+### To create an object
+```javascript
+var nameOfobject={};
+```
+
+### Adding items to an object
+```javascript
+objectName.newProperty: value;
+```
+
+### Removing items from objects
+```javascript
+remove objectName.property
+```
