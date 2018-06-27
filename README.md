@@ -179,3 +179,10 @@ objectName.propertyName() //That property name you gave a function to.
 ```Javascript
 objectName.property=new value// a number, string
 ```
+
+### For in loop
+```javascript
+for(var variableName in objectName){
+ code here
+}
+```
