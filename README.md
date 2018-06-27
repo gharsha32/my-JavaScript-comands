@@ -186,3 +186,5 @@ for(var variableName in objectName){
  code here
 }
 ```
+
+### To select an element in html to code it in javascript with the some id
