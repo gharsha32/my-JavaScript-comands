@@ -188,3 +188,18 @@ for(var variableName in objectName){
 ```
 
 ### To select an element in html to code it in javascript with the some id
+```javascript
+document.getElementById("")//id name in brackets
+```
+
+### To change the text in side a tag
+first get the element by id name and store it in a variable
+```javascript
+variableName.innerHTML
+```
+
+### To run the javascript code only after the page is completely loaded
+first create a function containing all the code that is to be run
+```javascript
+window.onlode=functionName;
+```
