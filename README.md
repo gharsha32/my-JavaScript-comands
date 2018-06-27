@@ -203,3 +203,12 @@ first create a function containing all the code that is to be run
 ```javascript
 window.onlode=functionName;
 ```
+
+### Shortcut for setting an atribute
+```javascript
+nameOfVariable.setAtribute("atribute1", "atribute2");
+```
+
+### To get the value of a atribute
+```javascript
+variableName.getAtribute("name of atribute you want value for")
