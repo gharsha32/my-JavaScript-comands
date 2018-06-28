@@ -213,5 +213,3 @@ nameOfVariable.setAtribute("atribute1", "atribute2");
 ```javascript
 variableName.getAtribute//name of atribute you want value for
 ```
-
-### 
