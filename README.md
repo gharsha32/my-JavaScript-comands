@@ -211,4 +211,7 @@ nameOfVariable.setAtribute("atribute1", "atribute2");
 
 ### To get the value of a atribute
 ```javascript
-variableName.getAtribute("name of atribute you want value for")
+variableName.getAtribute//name of atribute you want value for
+```
+
+### 
