@@ -248,16 +248,3 @@ step4: Compare the variable to the free object
 var variableName="1"+3
 console.log(variableName)//ouput: 13
 ```
-
-### Diffreces between =, ==, ===
-```javascript
-|        =        |        ==        |           ===    | 
-| ----------------------------------------------------  |
-| assigns values                |                  |                  |
-| to a variable  |                  |                  |
-|                 |                  |                  |
-|                 |                  |                  |
-|                 |                  |                  |
-|                 |                  |                  |
-
-
