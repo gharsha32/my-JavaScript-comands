@@ -229,4 +229,15 @@ first store the string in a variable
 variableName.split("the way you want to split")
 ```
 
-### To create a substring
+### To assign any value
+```javascript
+=
+```
+
+### To compare two objects(step-by-step)
+```javascript
+step1 : create two objects
+step2: create a variable and assign one object to the variable
+step3: Now compare both the objects
+step4: Compare the variable to the free object
+//The two objects must be with same properties so that the output comes true
