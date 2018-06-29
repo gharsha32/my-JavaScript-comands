@@ -213,3 +213,20 @@ nameOfVariable.setAtribute("atribute1", "atribute2");
 ```javascript
 variableName.getAtribute//name of atribute you want value for
 ```
+
+### To compare two strings or numbers
+```javascript
+==//this equality operator converts a string into a number
+```
+### Strict comparision
+```javascript
+===//gives true if everything is true including the type
+```
+
+### To split a string
+```javascript
+first store the string in a variable
+variableName.split("the way you want to split")
+```
+
+### To create a substring
