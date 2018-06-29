@@ -241,3 +241,23 @@ step2: create a variable and assign one object to the variable
 step3: Now compare both the objects
 step4: Compare the variable to the free object
 //The two objects must be with same properties so that the output comes true
+```
+
+### Concatinating between strings and numbers
+```javascript
+var variableName="1"+3
+console.log(variableName)//ouput: 13
+```
+
+### Diffreces between =, ==, ===
+```javascript
+|        =        |        ==        |           ===    | 
+| ----------------------------------------------------  |
+| assigns values                |                  |                  |
+| to a variable  |                  |                  |
+|                 |                  |                  |
+|                 |                  |                  |
+|                 |                  |                  |
+|                 |                  |                  |
+
+
