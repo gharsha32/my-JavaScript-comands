@@ -250,4 +250,4 @@ console.log(variableName)//ouput: 13
 ```
 ### To get your current location in the web
 ```javascript
-location href//In the console 
+location.href//In the console 
