@@ -248,3 +248,6 @@ step4: Compare the variable to the free object
 var variableName="1"+3
 console.log(variableName)//ouput: 13
 ```
+### To get your current location in the web
+```javascript
+location href//In the console 
